@@ -1,0 +1,8 @@
+{
+    "env": {
+    "DB_USER": "facundofn1906",
+    "DB_PASSWORD": "MERNAPP",
+    "DB_NAME": "mern-prod",
+    "JWT_KEY": "supersecret_dont_share"
+    }
+}
