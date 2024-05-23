@@ -28,7 +28,7 @@
 
 - Validating Patch Requests & User Routes
 
-- Installing Mongoose & Connecting Backend to MongoDB
+- Connecting Backend to MongoDB
 
 - Creating the Place Schema & Model
 
