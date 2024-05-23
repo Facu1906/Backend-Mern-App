@@ -3,16 +3,16 @@
 ## YourPlaces App
 
 ### URL: https://yourplaces-mern-app-d1acf.web.app/
-#### In this project's Backend I worked with: 
+#### In this project's Backend I built: 
 
 
-- Implementing Basic Routing
+- Basic Routing
 
 - Getting a Place By User ID
 
 - Handling Errors
 
-- Adding Error Model
+- Error Model
 
 - Controllers
 
@@ -28,4 +28,30 @@
 
 - Validating Patch Requests & User Routes
 
+- Installing Mongoose & Connecting Backend to MongoDB
 
+- Creating the Place Schema & Model
+
+- Creating & Storing Documents in the Database
+
+- Getting Places by the PlaceID
+
+- Getting Places by the UserID
+
+- Updating Places
+
+- Logic for how Users & Places are Related
+
+- User Model
+
+- Using the User Model for Signup
+
+- Adding the User Login
+
+- Getting Users
+
+- The Relation between Places & Users
+
+- Creating Places & Adding it to a User
+
+- Deleting Places & Removing it From the User
